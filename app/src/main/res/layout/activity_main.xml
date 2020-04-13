@@ -23,7 +23,7 @@
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
         android:text="@string/ti"
-        android:textColor="#aa55ff"
+        android:textColor="@color/ti"
         android:textSize="35sp" />
 
     <ListView
